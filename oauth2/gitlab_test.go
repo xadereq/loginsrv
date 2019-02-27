@@ -7,7 +7,7 @@ import (
 	"testing"
 
 	. "github.com/stretchr/testify/assert"
-	"github.com/tarent/loginsrv/model"
+	"github.com/xadereq/loginsrv/model"
 )
 
 var gitlabTestUserResponse = `{

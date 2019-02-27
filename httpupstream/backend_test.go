@@ -8,7 +8,7 @@ import (
 	"time"
 
 	. "github.com/stretchr/testify/assert"
-	"github.com/tarent/loginsrv/login"
+	"github.com/xadereq/loginsrv/login"
 )
 
 func TestSetup(t *testing.T) {

@@ -10,9 +10,9 @@ import (
 
 	"github.com/dgrijalva/jwt-go"
 	"github.com/pkg/errors"
-	"github.com/tarent/loginsrv/logging"
-	"github.com/tarent/loginsrv/model"
-	"github.com/tarent/loginsrv/oauth2"
+	"github.com/xadereq/loginsrv/logging"
+	"github.com/xadereq/loginsrv/model"
+	"github.com/xadereq/loginsrv/oauth2"
 )
 
 const contentTypeHTML = "text/html; charset=utf-8"

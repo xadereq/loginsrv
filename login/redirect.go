@@ -6,7 +6,7 @@ import (
 	"net/url"
 	"os"
 
-	"github.com/tarent/loginsrv/logging"
+	"github.com/xadereq/loginsrv/logging"
 	"strings"
 	"time"
 )

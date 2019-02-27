@@ -6,7 +6,7 @@ import (
 
 	"github.com/dgrijalva/jwt-go"
 	"github.com/pkg/errors"
-	"github.com/tarent/loginsrv/model"
+	"github.com/xadereq/loginsrv/model"
 	"gopkg.in/yaml.v2"
 )
 

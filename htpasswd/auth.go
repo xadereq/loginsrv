@@ -8,7 +8,7 @@ import (
 	"encoding/csv"
 	"fmt"
 	"github.com/abbot/go-http-auth"
-	"github.com/tarent/loginsrv/logging"
+	"github.com/xadereq/loginsrv/logging"
 	"golang.org/x/crypto/bcrypt"
 	"io"
 	"os"

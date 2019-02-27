@@ -14,8 +14,8 @@ import (
 
 	"github.com/dgrijalva/jwt-go"
 	. "github.com/stretchr/testify/assert"
-	"github.com/tarent/loginsrv/model"
-	"github.com/tarent/loginsrv/oauth2"
+	"github.com/xadereq/loginsrv/model"
+	"github.com/xadereq/loginsrv/oauth2"
 )
 
 const TypeJSON = "Content-Type: application/json"

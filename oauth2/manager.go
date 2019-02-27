@@ -2,7 +2,7 @@ package oauth2
 
 import (
 	"fmt"
-	"github.com/tarent/loginsrv/model"
+	"github.com/xadereq/loginsrv/model"
 	"net/http"
 	"net/url"
 	"strings"

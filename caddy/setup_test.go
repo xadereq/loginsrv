@@ -11,7 +11,7 @@ import (
 	"github.com/mholt/caddy"
 	"github.com/mholt/caddy/caddyhttp/httpserver"
 	. "github.com/stretchr/testify/assert"
-	"github.com/tarent/loginsrv/login"
+	"github.com/xadereq/loginsrv/login"
 )
 
 func TestSetup(t *testing.T) {
